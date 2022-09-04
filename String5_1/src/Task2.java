@@ -27,8 +27,8 @@ public class Task2 {
         if (this.length > 1000) {
             System.out.println("Не корректный ввод");
         } else {
-            System.out.println(this.numberString);
-            System.out.println(this.numberString.charAt((this.numberFind-1)));
+            System.out.println("Строка " + this.numberString);
+            System.out.println("Число " + this.numberString.charAt((this.numberFind - 1)));
         }
     }
 }

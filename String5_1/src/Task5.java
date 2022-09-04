@@ -1,4 +1,4 @@
-public class Task3 {
+public class Task5 {
     String[] subStr;
     String str;
 
@@ -11,21 +11,22 @@ public class Task3 {
 
     private void separatorWord() {
         inputData();
-        String delimeter = "!\\s|\\s|\\?\\s|\\.\\s|\\.|\\?|!";
+        String delimeter = "\\s|:";
         this.subStr = str.split(delimeter);
     }
 
-    private int countAverageLength() {
+    private int countEvenWord() {
         separatorWord();
         int count = 0;
         for (int i = 0; i < this.subStr.length; i++) {
-            count += this.subStr[i].length();
+            if ((this.subStr[i].length() % 2) == 0) {
+                count++;
+            }
         }
-        count = count / this.subStr.length;
         return count;
     }
 
     public void print() {
-        System.out.println("Средняя длина слова в строке " + countAverageLength());
+        System.out.println("Слов с четным кол-вом букв " + countEvenWord());
     }
 }
