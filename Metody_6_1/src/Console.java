@@ -13,4 +13,9 @@ public class Console {
         }
         return i;
     }
+
+    public String inputString (){
+        String str = scanner.nextLine();
+        return str;
+    }
 }

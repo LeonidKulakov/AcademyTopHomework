@@ -17,6 +17,9 @@ public class Application {
         System.out.println("\nЗадача №3");
         Task3 task3 = new Task3();
         task3.print();
+        System.out.println("\nЗадача №4");
+        Task4 task4 = new Task4();
+        task4.print();
         System.out.println("\nЗадача №5");
         Task5 task5 = new Task5();
         task5.print();
