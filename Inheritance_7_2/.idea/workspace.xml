@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41c28838-fd3b-4f41-b6e3-b3473f6a4ebf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ChildrenTax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Offshore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Premium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TugrikTax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DailySalaryEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DailySalaryEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HourlySalaryEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HourlySalaryEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PieceworkEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PieceworkEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Salary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SalaryInTugriks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Taxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taxes.java" afterDir="false" />
-    </list>
+    <list default="true" id="41c28838-fd3b-4f41-b6e3-b3473f6a4ebf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,7 +42,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "C:/Users/Asus/Desktop/Java 21/homework/Urok"
+    "last_opened_file_path": "C:/Users/Asus/Desktop/Java 21/homework/Inheritance_7_2"
   }
 }]]></component>
   <component name="RecentsManager">
