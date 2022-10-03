@@ -1,6 +1,7 @@
 import coffeeMachine.Beko;
 import coffeeMachine.Philips;
 import coffeeMachine.PhilipsMilk;
+import coffeeMachine.PhilipsNew;
 import myException.*;
 
 public class Main {

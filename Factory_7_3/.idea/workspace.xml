@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8f8fc18-64e3-4ad6-8f5c-1c95b1a93473" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory_7_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coffee/IAmericano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coffee/ICappuccino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coffee/IEspresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coffee/ILate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coffeeMachine/Beko.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coffeeMachine/BekoMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coffeeMachine/CoffeeMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coffeeMachine/Philips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coffeeMachine/PhilipsMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coffeeMachine/PhilipsNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myException/NoEnergyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myException/ThereIsNoCoffeeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myException/ThereIsNoMilkException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myException/ThereIsNoWaterException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myException/WasteCoffeeDinOverflowingException.java" afterDir="false" />
-    </list>
+    <list default="true" id="f8f8fc18-64e3-4ad6-8f5c-1c95b1a93473" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="cbd88d03-6941-4ee7-b07b-3ed0c3a4367d" />
